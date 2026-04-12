@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Anton', Impact, Charcoal, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
@@ -14,11 +14,11 @@ header {
 }
 
 h1 {
-    color: #ff6b6b;
+    color: #ff00000;
 }
 
 h2 {
-    color: #4d96ff;
+    color: #000000;
     border-bottom: 2px solid #eee;
     padding-bottom: 5px;
 }
